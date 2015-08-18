@@ -1,0 +1,11 @@
+c:\users\joven\documents\visual studio 2013\Projects\AddStudentFrame\AddStudentFrame\bin\Debug\AddStudentFrame.exe.config
+c:\users\joven\documents\visual studio 2013\Projects\AddStudentFrame\AddStudentFrame\bin\Debug\AddStudentFrame.exe
+c:\users\joven\documents\visual studio 2013\Projects\AddStudentFrame\AddStudentFrame\bin\Debug\AddStudentFrame.pdb
+c:\users\joven\documents\visual studio 2013\Projects\AddStudentFrame\AddStudentFrame\bin\Debug\AddStudentFrame.xml
+c:\users\joven\documents\visual studio 2013\Projects\AddStudentFrame\AddStudentFrame\obj\Debug\AddStudentFrame.Form1.resources
+c:\users\joven\documents\visual studio 2013\Projects\AddStudentFrame\AddStudentFrame\obj\Debug\AddStudentFrame.Resources.resources
+c:\users\joven\documents\visual studio 2013\Projects\AddStudentFrame\AddStudentFrame\obj\Debug\AddStudentFrame.vbproj.GenerateResource.Cache
+c:\users\joven\documents\visual studio 2013\Projects\AddStudentFrame\AddStudentFrame\obj\Debug\AddStudentFrame.exe
+c:\users\joven\documents\visual studio 2013\Projects\AddStudentFrame\AddStudentFrame\obj\Debug\AddStudentFrame.xml
+c:\users\joven\documents\visual studio 2013\Projects\AddStudentFrame\AddStudentFrame\obj\Debug\AddStudentFrame.pdb
+c:\users\joven\documents\visual studio 2013\Projects\AddStudentFrame\AddStudentFrame\obj\Debug\AddStudentFrame.Form2.resources
